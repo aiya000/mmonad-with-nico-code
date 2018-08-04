@@ -28,3 +28,4 @@ cabal.project.local~
 
 # End of https://www.gitignore.io/api/haskell
 mmonad-with-nico-code.cabal
+tags
